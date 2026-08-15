@@ -14,8 +14,31 @@ I built the core backend services:
 - **Document & choice submission** — upload and selection handling
 - **Notifications** — email and SMS services for real-time status updates
 
+## Screenshots
+
+**Registration**
+![Registration](screenshots/registration.png)
+
+**Login**
+![Login](screenshots/login.PNG)
+
+**Dashboard**
+![Dashboard](screenshots/dashboard.png)
+
+**Document Upload**
+![Document Upload](screenshots/document_upload.png)
+
+**Choice Filling**
+![Choice Filling](screenshots/choice_filling.png)
+
+**Payment (Demo Mode)**
+![Payment](screenshots/payment.png)
+
+**Seat Allotment**
+![Seat Allotment](screenshots/seat_allotment.png)
+
 ## Tech Stack
-React.js · Node.js · Express.js · MongoDB · Tailwind CSS
+React.js · Python · Flask · SQLAlchemy · JWT · Redis · Celery · Twilio · Razorpay
 
 ## Running Locally
 See [QUICKSTART.md](./QUICKSTART.md) for setup instructions.
